@@ -1,6 +1,6 @@
 # -------------------------------------------------------------------------------------
 #
-# Copyright (c) 2013, Kiyoto Kirkpatrick
+# Copyright (c) 2014, Kiyoto Kirkpatrick
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -166,7 +166,7 @@ try:
         "Create Incomplete Small (PS3) Size Cover: Paste Cover Art into GIMP, run this program, enter Title, and hit OK. ",
         "Kiyoto Kirkpatrick",
         "Copyright 2014 Kiyoto Kirkpatrick",
-        "2013",
+        "2014",
         "<Image>/Gamez Unleashed/Incomplete Small (PS3) Cover",
         "RGB*, GRAY*",
         [
